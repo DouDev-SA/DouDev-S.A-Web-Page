@@ -466,11 +466,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Shackmerferu\\Desktop\\DouDev WebPage\\.git\\DouDev-S.A-Web-Page\\BackEnd-DouDev\\BackEnd-DouDev.csproj",
+      "projectUniqueName": "C:\\Users\\Shackmerferu\\Desktop\\DouDev\\DouDev-S.A-Web-Page\\BackEnd-DouDev\\BackEnd-DouDev.csproj",
       "projectName": "BackEnd-DouDev",
-      "projectPath": "C:\\Users\\Shackmerferu\\Desktop\\DouDev WebPage\\.git\\DouDev-S.A-Web-Page\\BackEnd-DouDev\\BackEnd-DouDev.csproj",
+      "projectPath": "C:\\Users\\Shackmerferu\\Desktop\\DouDev\\DouDev-S.A-Web-Page\\BackEnd-DouDev\\BackEnd-DouDev.csproj",
       "packagesPath": "C:\\Users\\Shackmerferu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Shackmerferu\\Desktop\\DouDev WebPage\\.git\\DouDev-S.A-Web-Page\\BackEnd-DouDev\\obj\\",
+      "outputPath": "C:\\Users\\Shackmerferu\\Desktop\\DouDev\\DouDev-S.A-Web-Page\\BackEnd-DouDev\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
