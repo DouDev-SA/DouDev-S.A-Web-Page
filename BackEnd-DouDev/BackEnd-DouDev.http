@@ -1,0 +1,6 @@
+@BackEnd_DouDev_HostAddress = http://localhost:5228
+
+GET {{BackEnd_DouDev_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
