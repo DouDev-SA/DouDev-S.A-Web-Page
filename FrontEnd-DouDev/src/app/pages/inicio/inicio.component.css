@@ -1,0 +1,27 @@
+.card {
+    background: rgb(141, 45, 145);
+    padding: 1px;
+    margin: 30px auto;
+    width: 460px;
+    border-radius: 10px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+.card2 {
+    background: rgb(219, 218, 219);
+    padding: 1px;
+    margin: 5px auto;
+    width: 450px;
+    border-radius: 10px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+.image {
+  width: 100%;         /* Más pequeño */
+  height: auto;        /* Mantiene la proporción */
+  position: absolute;
+  top: 40px;
+  left: 30px;
+}
+body {
+    font-family: sans-serif;
+    text-align: center;
+}

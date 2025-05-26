@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BackEnd-DouDev")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c4ad21a0ee13df739f499e7b48a47e852416d229")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9c16c273c15a921e6052a8eca631b2d1e7cf94a1")]
 [assembly: System.Reflection.AssemblyProductAttribute("BackEnd-DouDev")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BackEnd-DouDev")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
